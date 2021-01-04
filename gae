@@ -1,0 +1,133 @@
+<!--p						
+	<!-- Five -->
+							<section id="five" class="wrapper style1">
+								<div class="inner">
+									<h2 class="major">Projects</h2>
+									<p>Cras mattis ante fermentum, malesuada neque vitae, eleifend erat. Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus in tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.</p>
+									<section class="features">
+										<article>
+											<a href="#" class="image"><img src="images/pic04.jpg" alt="" /></a>
+											<h3 class="major">Sed feugiat lorem</h3>
+											<p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.</p>
+											<a href="#" class="special">Learn more</a>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic05.jpg" alt="" /></a>
+											<h3 class="major">Nisl placerat</h3>
+											<p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.</p>
+											<a href="#" class="special">Learn more</a>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic06.jpg" alt="" /></a>
+											<h3 class="major">Ante fermentum</h3>
+											<p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.</p>
+											<a href="#" class="special">Learn more</a>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic07.jpg" alt="" /></a>
+											<h3 class="major">Fusce consequat</h3>
+											<p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.</p>
+											<a href="#" class="special">Learn more</a>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic07.jpg" alt="" /></a>
+											<h3 class="major">Fusce consequat</h3>
+											<p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.</p>
+											<a href="#" class="special">Learn more</a>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic07.jpg" alt="" /></a>
+											<h3 class="major">Fusce consequat</h3>
+											<p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.</p>
+											<a href="#" class="special">Learn more</a>
+										</article>
+									</section>
+									<ul class="actions">
+										<li><a href="#" class="button">Browse All</a></li>
+									</ul>
+								</div>
+							</section>
+
+					</section>
+
+
+
+
+<!-- One -->
+							<section id="one" class="wrapper spotlight style1">
+								<div class="inner">
+									<a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
+									<div class="content">
+										<h2 class="major">Masters Education</h2>
+										<h2 class="minor">Rutgers Business School - New Jersey</h2>
+										<p><b>Master of Science in Quantitative Finance </b><br> GPA: 3.4 <br>Courses: Recommendation Letter by Professor Andrzej Ruszczyński for Stochastic Calculus <br>Financial Time Series, Stats and Machine Learning, OOPS in C++ and Python, Financial Modelling, Derivatives Pricing Theory, Numerical Analysis.</p>	
+									</div>
+								</div>
+							</section>
+
+						<!-- Two -->
+							<section id="two" class="wrapper alt spotlight style2">
+								<div class="inner">
+									<a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
+									<div class="content">
+										<h2 class="major">Bachelors Education</h2>
+										<h2 class="minor">Indian Institute of Technology - Bombay</h2>
+										<p><b>Bachelor of Technology in Chemical Engineering </b><br> Ranked amongst the top 0.08% of the 1,400,000 students in the IIT JEE Advance Entrance Exam.</p>
+										
+									</div>
+								</div>
+							</section>
+
+						<!-- Three-->
+							<section id="three" class="wrapper spotlight style3">
+								<div class="inner">
+									<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
+									<div class="content">
+										<h2 class="major">Internship Experience 1</h2>
+										<h2 class="minor">ETFication - New York</h2>
+										<p><b>Financial Engineering Intern </b><br>June’20- Aug’20</p>
+										
+									</div>
+								</div>
+							</section>
+						
+						<!-- Four -->
+						<section id="four" class="wrapper alt spotlight style4">
+							<div class="inner">
+								<a href="#" class="image"><img src="images/pic04.jpg" alt="" /></a>
+								<div class="content">
+									<h2 class="major">Internship Experience 2</h2>
+									<h2 class="minor">Tata AIG General Insurance - Mumbai</h2>
+									<p><b> Data Science Intern in Business Intellegence Team </b><br>Sept’18- June’19</p>
+									
+								</div>
+							</div>
+						</section>
+
+						<!-- Five -->
+						<section id="five" class="wrapper spotlight style5">
+							<div class="inner">
+								<a href="#" class="image"><img src="images/pic05.jpg" alt="" /></a>
+								<div class="content">
+									<h2 class="major">Exams and Certifications</h2>
+									<h2 class="minor"><b>Actuarial Exams</b></h2>
+									<p> CT1 -Financial Mathematics <br> CT2* - Finance and Financial Reporting <br> CT3 - Probability and Mathematical Statistics <br> CT5 - Contingencies <br> CT6 - Statistical Methods <br> CT7* - Business Economics <br> CT9 - Business Awareness</p>
+									<h2 class="minor"><b>CFA Level I Examination Cleared. CFA Level 2 Candidate.</b></h2>
+								</div>
+							</div>
+						</section>
+
+<!-- One -->
+						<section id="four" class="wrapper alt spotlight style6">
+							<div class="inner">
+								<a href="#" class="image"><img src="images/pic06.jpg" alt="" /></a>
+								<div class="content">
+									<h2 class="major">Internship Experience 2</h2>
+									<h2 class="minor">Tata AIG General Insurance - Mumbai</h2>
+									<p><b> Data Science Intern in Business Intelligence Team </b><br>Sept’18- June’19</p>
+									
+								</div>
+							</div>
+						</section>
+
+						<!-- div class="logo"><span class="icon fa-gem"></span></div-->
